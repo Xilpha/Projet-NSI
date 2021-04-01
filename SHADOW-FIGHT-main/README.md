@@ -10,3 +10,10 @@ Le github de Mamadou Diabira et Jérémy Basha
 * Présentation du jeu :
 	- Shadow Fight est un jeu d'arcade de combat en 1 contre 1 (tel que Street Fighter), qui se déroule dans une décor plutôt sombre.
 	- Le jeu sera facile d'utilisation afin d'être accessible à tous : mouvements et attaques seront controlés depuis les touches du clavier.
+
+
+Le 01/04/21 :
+    - Nous avons commencer la programmation du jeu, nous avons trouver les décors des combats ainsi que les personnjages. Les images d'arrières plan fonctionnent. Nous avons un peu de mal à utilisé correctement les sprites mais nous y arrivons quand même. Les animations de combats du perosnnages sont également prêtes à etre intégrées dans le code. 
+
+Prochainement nous comptons intégrer les sprites du personnage dans le code, afin d'avoir un début de rendu de notre travail.
+Nous travaillons ensemble en moyenne 1h30 tout les jours.
